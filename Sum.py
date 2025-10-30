@@ -1,3 +1,4 @@
+# This is a simple program to calculate the sum of two numbers
 a = int(input("Enter first number: "))
 b = int(input("Enter second number: "))
 def sum(a, b):
